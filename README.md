@@ -1,2 +1,2 @@
 # QuizPrototype
-Creating a quiz prototype
+Learning how to use scriptable object to make a quiz game
